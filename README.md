@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Ibrahim Salem-Deeb
 
-<!--
-**ibrahimdeeb0/ibrahimdeeb0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
 
-Here are some ideas to get you started:
+I am a passionate **Flutter Developer** with over 2 years of experience in creating high-performance, cross-platform mobile applications. Skilled in building and maintaining iOS and Android apps, with a focus on delivering smooth user experiences and solving technical challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 **Programming Languages**: Dart, Java
+- 📱 **Mobile Development**: Flutter, Android SDK, iOS, Firebase Authentication, Firestore, Cloud Functions
+- 🛠 **State Management**: GetX (with MVC architecture), BLoC (with MVVM architecture)
+- 🚀 **Tools**: Git, Firebase Cloud Messaging
+- 👥 **Collaboration Tools**: Microsoft Teams, Trello, ClickUp, Slack
+
+---
+
+### 📈 GitHub Stats
+
+![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimdeeb0&show_icons=true&theme=radical)
+
+---
+
+### 🛠️ Projects
+
+- **[AHM Car Services](#)**: A mobile platform for provides seamless car insurance and repair services, allowing users to file claims, track repairs, and book services directly with our trusted in-house garage.
+- **[360 Connect Mobile App](#)**: A mobile app for professional services, integrated with APIs for geolocation and payment gateways.
+
+---
+
+### 📫 How to Reach Me
+
+- **Email**: [ibrahim.deep.dev@gmail.com](mailto:ibrahim.deep.dev@gmail.com)
+- **LinkedIn**: [Ibrahim Salem-Deeb](https://www.linkedin.com/in/ibrahim-salem-deeb)
+- **GitHub**: [IbrahimDeeb0](https://github.com/ibrahimdeeb0)
