@@ -18,13 +18,6 @@ I am a passionate **Flutter Developer** with over 2 years of experience in creat
 
 ---
 
-### 🛠️ Projects
-
-- **[AHM Car Services](#)**: A mobile platform for provides seamless car insurance and repair services, allowing users to file claims, track repairs, and book services directly with our trusted in-house garage.
-- **[360 Connect Mobile App](#)**: A mobile app for professional services, integrated with APIs for geolocation and payment gateways.
-
----
-
 ### 📫 How to Reach Me
 
 - **Email**: [ibrahim.deep.dev@gmail.com](mailto:ibrahim.deep.dev@gmail.com)
