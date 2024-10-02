@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I am a passionate **Flutter Developer** with over 2 years of experience in creating high-performance, cross-platform mobile applications. Skilled in building and maintaining iOS and Android apps, with a focus on delivering smooth user experiences and solving technical challenges.
+I am a passionate **Flutter Developer** with over 2 years of experience in creating high-performance, cross-platform mobile applications. Currently working on multi-platform flutter apps, with a focus on delivering smooth user experiences and solving technical challenges.
 
 - 🔧 **Programming Languages**: Dart, Java
 - 📱 **Mobile Development**: Flutter, Android SDK, iOS, Firebase Authentication, Firestore, Cloud Functions
