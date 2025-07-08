@@ -6,8 +6,8 @@ I am a passionate **Flutter Developer** with over 2 years of experience in creat
 
 - 🔧 **Programming Languages**: Dart, Java
 - 📱 **Mobile Development**: Flutter, Android SDK, iOS, Firebase Authentication, Firestore, Cloud Functions
-- 🛠 **State Management**: BLoC(Cubit) (with MVVM architecture), GetX (with MVC architecture),
-- 🚀 **Tools**: Git, Firebase Cloud Messaging
+- 🛠 **State Management**: BLoC(Cubit), GetX, Provider, Riverpod
+- 🚀 **Tools**: Git, Firebase Cloud Messaging, webScoket
 - 👥 **Collaboration Tools**: Microsoft Teams, Trello, ClickUp, Slack
 
 ---
