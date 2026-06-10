@@ -105,59 +105,6 @@ Flutter is my main playground, but I am comfortable stepping into the native lay
 
 ---
 
-## Things I've built
-
-### 🏋️ Nasaa — Fitness & Coaching Platform
-
-A fitness platform with subscriptions, workout tracking, progress charts, streaks, and offline logging.
-
-**Built around:**
-
-- Riverpod for asynchronous state, dependency handling, and feature isolation.
-- RevenueCat subscriptions and in-app purchases.
-- Hive-based offline workout logging.
-- Sync-on-reconnect workflows.
-- Gamified progress and retention experiences.
-
-`Flutter` `Riverpod` `Hive` `RevenueCat` `Charts`
-
----
-
-### 🚗 AHM Car Services
-
-A two-sided mobile ecosystem connecting customers and drivers for towing, roadside assistance, insurance, and repair services.
-
-Basically: two apps, live drivers, maps, payments, and enough real-time events to keep WebSockets busy.
-
-**Built around:**
-
-- Customer and driver applications.
-- Real-time geospatial tracking.
-- Google Maps and location services.
-- Job lifecycle and status management.
-- Payments and commission workflows.
-- Push notifications and live updates.
-
-`Flutter` `BLoC` `Google Maps` `WebSockets` `Payments` `Firebase`
-
----
-
-### 🤝 360Connect
-
-A B2B marketplace that helps companies receive, manage, and respond to business leads.
-
-**Built around:**
-
-- Offline-first lead workflows.
-- API caching and consistency strategies.
-- FCM notifications with deep linking.
-- CRM-integrated business flows.
-- Complex lead states and validation rules.
-
-`Flutter` `Hive` `REST APIs` `FCM` `Deep Links`
-
----
-
 ## Currently
 
 ```yaml
