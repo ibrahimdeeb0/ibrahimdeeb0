@@ -1,43 +1,224 @@
-# 👋 Hi, I'm Ibrahim Deeb
-**Senior-Level Flutter Developer | Cross-Platform Engineer (4+ years)**  
-📍 Gaza, Palestine
+<div align="center">
 
-## 🚀 About Me
-Results-oriented Flutter Developer with **4+ years** of experience building high-performance mobile apps across **Logistics, B2B SaaS, and HealthTech**.  
-I specialize in **Clean Architecture + MVVM**, scalable state management (**BLoC/Riverpod**), and **offline-first** solutions. I care about **code quality, CI/CD automation, performance**, and **pixel-perfect UI**.
+# Hey, I'm Ibrahim 👋
 
-## 💡 Highlights
-- Built complex production apps including **dual-sided marketplace & logistics** platforms and **offline-first business** apps.
-- Improved user engagement with gamification features (e.g., **~20% retention increase** in a fitness platform).
-- Refactored legacy codebases to Clean Architecture, cutting technical debt and improving performance (e.g., **~30%** improvements reported in real projects).
-- Implemented **real-time tracking**, maps, WebSockets, notifications, and subscription systems.
+### Flutter-first Mobile Engineer — native when needed.
 
-## 🧰 Tech Stack
-**Core:** Flutter, Dart, OOP, SOLID  
-**Architecture:** Clean Architecture, MVVM, MVC, Repository Pattern  
-**State Management:** BLoC (Cubit), Riverpod, Provider, GetX  
-**Backend & Cloud:** Firebase (Auth, Firestore, Cloud Functions, FCM), REST APIs, Laravel integration  
-**Local Data / Offline:** Hive, SQLite (Sqflite), SharedPreferences, offline-first sync strategies  
-**DevOps & Tools:** Git, GitHub Actions, Codemagic, JIRA, Postman, Figma  
-**Specialized:** Google Maps SDK, WebSockets, Payments (Stripe/Tap), RevenueCat (IAP)
+I build mobile apps that survive real users, unstable networks,  
+and the occasional **“it only breaks on iOS”** mystery.
 
-## 🧩 Selected Projects
-### 🏋️ Nasaa — Fitness & Coaching Platform (Aug 2025 – Present)
-- Cross-platform app with subscriptions and IAP via **RevenueCat**
-- Offline logging using **Hive** with sync on reconnect
-- Gamified UI (charts, streaks, progress) to improve retention
+📍 Gaza, Palestine 🇵🇸
 
-### 🚗 AHM Car Services — On-Demand Logistics & Towing
-- Dual-app ecosystem (Driver & Consumer)
-- **Real-time geospatial tracking** using Google Maps + WebSockets
-- Payments + commission workflow, real-time lifecycle control
+<br>
 
-### 🤝 360Connect — B2B Lead Generation Marketplace
-- Offline-first lead workflows using **Hive**
-- FCM + deep linking for instant lead alerts
-- API caching & consistency strategies for CRM-integrated flows
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-salem-deeb)
+[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahim.deep.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahimdeeb0)
 
-## 📫 Contact
-- Email: **ibrahim.deep.dev@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/ibrahim-salem-deeb
-- GitHub: https://github.com/ibrahimdeeb0
+</div>
+
+---
+
+```bash
+$ whoami
+Ibrahim Deeb
+
+$ role
+Flutter-first Mobile Engineer
+
+$ currently
+Building production apps, fixing platform-specific chaos,
+and pretending "just one small change" is actually small.
+
+$ location
+Gaza, Palestine 🇵🇸
+```
+
+## So... what do I actually build?
+
+Cross-platform mobile apps with Flutter — from polished interfaces to real-time workflows, offline storage, payments, maps, notifications, and native platform integrations.
+
+My work usually involves:
+
+- Turning Figma designs into responsive, production-ready interfaces.
+- Building scalable features without creating a folder labyrinth.
+- Connecting REST APIs and WebSockets that occasionally enjoy surprises.
+- Designing offline-first flows for unreliable network conditions.
+- Integrating maps, payments, subscriptions, deep links, and notifications.
+- Debugging Android and iOS issues beyond the Flutter layer.
+- Refactoring legacy code before it becomes emotionally attached to the project.
+
+> Clean code is great.  
+> Code that ships, scales, and stays understandable is even better.
+
+---
+
+## The mobile toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,apple,firebase,sqlite,git,github,githubactions,figma,postman" alt="Mobile development tools" />
+</p>
+
+### Flutter & architecture
+
+`Flutter` · `Dart` · `Clean Architecture` · `MVVM` · `Repository Pattern`
+
+### State management
+
+`BLoC` · `Cubit` · `Riverpod` · `Provider`
+
+### Data & connectivity
+
+`Dio` · `REST APIs` · `WebSockets` · `Hive` · `SQLite` · `SharedPreferences`
+
+### Cloud & integrations
+
+`Firebase` · `FCM` · `Google Maps` · `RevenueCat` · `Payments` · `Deep Links`
+
+### Delivery & collaboration
+
+`Git` · `GitHub Actions` · `Codemagic` · `JIRA` · `Postman` · `Figma`
+
+---
+
+## Beyond Flutter
+
+Flutter is my main playground, but I am comfortable stepping into the native layers when the app requires it.
+
+### Android side
+
+- Kotlin fundamentals and native Android project structure.
+- Android SDK, manifests, permissions, and build configuration.
+- Gradle setup, product flavors, signing, and release builds.
+- Platform Channels between Flutter and Android.
+- Debugging Android-specific plugin and lifecycle issues.
+
+### iOS side
+
+- Xcode project configuration and build settings.
+- CocoaPods, certificates, signing, and provisioning profiles.
+- App capabilities, permissions, and deployment configuration.
+- Platform Channels between Flutter and iOS.
+- Debugging simulator, archive, and App Store build issues.
+
+> Flutter-first does not mean Flutter-only.
+
+---
+
+## Things I've built
+
+### 🏋️ Nasaa — Fitness & Coaching Platform
+
+A fitness platform with subscriptions, workout tracking, progress charts, streaks, and offline logging.
+
+**Built around:**
+
+- Riverpod for asynchronous state, dependency handling, and feature isolation.
+- RevenueCat subscriptions and in-app purchases.
+- Hive-based offline workout logging.
+- Sync-on-reconnect workflows.
+- Gamified progress and retention experiences.
+
+`Flutter` `Riverpod` `Hive` `RevenueCat` `Charts`
+
+---
+
+### 🚗 AHM Car Services
+
+A two-sided mobile ecosystem connecting customers and drivers for towing, roadside assistance, insurance, and repair services.
+
+Basically: two apps, live drivers, maps, payments, and enough real-time events to keep WebSockets busy.
+
+**Built around:**
+
+- Customer and driver applications.
+- Real-time geospatial tracking.
+- Google Maps and location services.
+- Job lifecycle and status management.
+- Payments and commission workflows.
+- Push notifications and live updates.
+
+`Flutter` `BLoC` `Google Maps` `WebSockets` `Payments` `Firebase`
+
+---
+
+### 🤝 360Connect
+
+A B2B marketplace that helps companies receive, manage, and respond to business leads.
+
+**Built around:**
+
+- Offline-first lead workflows.
+- API caching and consistency strategies.
+- FCM notifications with deep linking.
+- CRM-integrated business flows.
+- Complex lead states and validation rules.
+
+`Flutter` `Hive` `REST APIs` `FCM` `Deep Links`
+
+---
+
+## Currently
+
+```yaml
+building:
+  - Production Flutter applications
+  - Offline-first business workflows
+  - Maintainable mobile architectures
+
+exploring:
+  - Better synchronization strategies
+  - Native Android integrations
+  - Flutter performance optimization
+  - Smoother animations and micro-interactions
+
+avoiding:
+  - Unnecessary rebuilds
+  - 900-line widgets
+  - The phrase "just a small change"
+```
+
+---
+
+## My development philosophy
+
+```text
+Make it work.
+Make it clear.
+Make it stable.
+Then find out why it only breaks on one specific iPhone.
+```
+
+I like clean architecture, but I do not believe every small feature needs seventeen layers, twelve interfaces, and an existential crisis.
+
+**Readable code. Stable apps. Smooth experiences. Fewer surprises.**
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ibrahimdeeb0&show_icons=true&hide_border=true&count_private=true&theme=github_dark" alt="Ibrahim's GitHub stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimdeeb0&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Let's build something that doesn't crash on launch.
+
+Open to interesting mobile projects, collaborations, and conversations about Flutter, Android, and app architecture.
+
+[LinkedIn](https://www.linkedin.com/in/ibrahim-salem-deeb) ·
+[Email](mailto:ibrahim.deep.dev@gmail.com) ·
+[GitHub](https://github.com/ibrahimdeeb0)
+
+<br>
+
+<sub>Built with Flutter energy, Palestinian resilience, and an unreasonable number of widgets. 🇵🇸</sub>
+
+</div>
