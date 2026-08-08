@@ -2,7 +2,7 @@
 
 # Hey, I'm Ibrahim 👋
 
-### Flutter-first Mobile Engineer — native when needed.
+### Flutter-first Mobile Engineer - native when needed.
 
 I build mobile apps that survive real users, unstable networks,  
 and the occasional **“it only breaks on iOS”** mystery.
