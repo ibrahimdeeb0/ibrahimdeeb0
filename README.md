@@ -36,7 +36,7 @@ Gaza, Palestine 🇵🇸
 
 ## So... what do I actually build?
 
-Cross-platform mobile apps with Flutter — from polished interfaces to real-time workflows, offline storage, payments, maps, notifications, and native platform integrations.
+Cross-platform mobile apps with Flutter - from polished interfaces to real-time workflows, offline storage, payments, maps, notifications, and native platform integrations.
 
 My work usually involves:
 
@@ -139,18 +139,6 @@ Then find out why it only breaks on one specific iPhone.
 I like clean architecture, but I do not believe every small feature needs seventeen layers, twelve interfaces, and an existential crisis.
 
 **Readable code. Stable apps. Smooth experiences. Fewer surprises.**
-
----
-
-## GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ibrahimdeeb0&show_icons=true&hide_border=true&count_private=true&theme=github_dark" alt="Ibrahim's GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimdeeb0&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used languages" />
-
-</div>
 
 ---
 
